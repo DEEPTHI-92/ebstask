@@ -3,7 +3,7 @@
     "containerDefinitions": [
       {
         "name": "React",
-        "image": "vennilavan/dev:latest",
+        "image": "deepthiarmour/ebs:latest",
         "essential": true,
         "memory": 128,
         "cpu": 256,
